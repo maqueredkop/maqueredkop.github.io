@@ -25,11 +25,11 @@ markdown: kramdown
 
 FB:
   comments :
-    provider : duoshuo
-    duoshuo:
-        short_name : luoyan35714
+    provider : youyan
+    youyan:
+        short_name : maque
     disqus :
-        short_name : freudkang
+        short_name : maque
     # facebook :
     #   appid : 123
     #   num_posts: 5
