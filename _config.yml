@@ -25,10 +25,10 @@ markdown: kramdown
 
 FB:
   comments :
-    provider : staticman
-    staticman:
+    provider : discourse
+    discourse:
         short_name : maque
-    staticman :
+    discourse :
         short_name : maque
     # facebook :
     #   appid : 123
