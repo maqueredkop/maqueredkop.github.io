@@ -1,6 +1,8 @@
 {% if site.FB.comments.provider and page.comments != false %}
 
 {% case site.FB.comments.provider %}
+{% when "staticman" %}
+  {% include LessOrMore/comments-providers/staticman %}
 {% when "discourse" %}
   {% include LessOrMore/comments-providers/discourse %}
 {% when "disqus" %}
