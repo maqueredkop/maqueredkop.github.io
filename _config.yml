@@ -27,7 +27,7 @@ FB:
   comments :
     provider : disqus
     disqus:
-        short_name : maque
+        short_name : disqus_5Pphpfs4Ft
     livefyre :
         short_name : 123
     # facebook :
