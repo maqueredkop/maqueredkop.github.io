@@ -25,11 +25,11 @@ markdown: kramdown
 
 FB:
   comments :
-    provider : discourse
-    discourse:
+    provider : disqus
+    disqus:
         short_name : maque
-    discourse :
-        short_name : maque
+    livefyre :
+        short_name : 123
     # facebook :
     #   appid : 123
     #   num_posts: 5
