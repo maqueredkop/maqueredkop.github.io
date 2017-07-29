@@ -8,7 +8,7 @@ github: https://github.com/maqueredkop/
 baseurl: ""
 description: 麻雀虽小 五脏俱全
 meta_description: 个人博客
-motto: 目送归鸿 手挥五弦 俯仰自得 游心太玄
+#motto: 目送归鸿 手挥五弦 俯仰自得 游心太玄
 banner: ""
 
 #permalink: /:categories/:year/:month/:day/:title/
