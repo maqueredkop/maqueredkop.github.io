@@ -26,15 +26,7 @@ permalink: /reference/
 
 [Wei Shen's Note](http://blog.shenwei.me/)
 
-[小小羊](https://yangfangs.github.io/)
-
-[牛牛龙](http://yulongniu.bionutshell.org/)
-
-[宠辱不惊，一心问学](http://www.chenlianfu.com/)
-
 [博耘生物](http://boyun.sh.cn/bio/)
-
-[菜鸟的博客](http://blog.sina.com.cn/liuguiyou)
 
 [DAVE TANG'S BLOG](https://davetang.org/muse/)
 
