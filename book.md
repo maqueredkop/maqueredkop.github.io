@@ -65,6 +65,10 @@ Linux命令行大全  William Shotts  郭光伟等译
 
 软技能-代码之外的生存指南  John Sonmez  王小刚译  **推荐**
 
+我最需要的理财常识书 王华
+
+Data Analysis for the Life Sciences with R  Rafael A. Irizarry & Michael I. Love  **推荐**
+
 #### 2016
 
 呼兰河传  萧红  **推荐**
