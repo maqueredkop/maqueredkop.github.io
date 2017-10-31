@@ -69,6 +69,16 @@ Linux命令行大全  William Shotts  郭光伟等译
 
 Data Analysis for the Life Sciences with R  Rafael A. Irizarry & Michael I. Love  **推荐**
 
+送你一颗子弹  刘瑜
+
+民主的细节  刘瑜
+
+观念的水位  刘瑜
+
+看见  柴静  **推荐**
+
+优秀的绵羊  William Deresiewicz 林杰译  **推荐**
+
 #### 2016
 
 呼兰河传  萧红  **推荐**
