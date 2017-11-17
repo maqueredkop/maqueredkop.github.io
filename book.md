@@ -79,6 +79,10 @@ Data Analysis for the Life Sciences with R  Rafael A. Irizarry & Michael I. Love
 
 优秀的绵羊  William Deresiewicz 林杰译  **推荐**
 
+乌合之众  勒庞  陈剑译
+
+一个村庄里的中国  熊培云  **推荐**
+
 #### 2016
 
 呼兰河传  萧红  **推荐**
