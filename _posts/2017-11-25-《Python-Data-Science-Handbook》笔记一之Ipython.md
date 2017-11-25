@@ -1,6 +1,6 @@
 ---
 layout: post
-title:《Python-Data-Science-Handbook》笔记一之Ipython
+title: [Python-Data-Science-Handbook]之Ipython
 date: 2017-11-25 16:00:00
 categories: python
 tag: [python, 笔记]
