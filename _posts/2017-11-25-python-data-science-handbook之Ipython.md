@@ -16,28 +16,29 @@ tag: [python, 笔记]
 
 这一章主要是关于Ipython, 很强大的交互式python, 比自带的python 解释器要强大的多，但是我个人的体会是，它的局限性也不小，比较适合交互，尝试一些demo, 查看一下帮助文档，还是很好的。但是真正的项目的话，IDE肯定更好，比如pycharm, spyder 等等。另外，jupyter notebook 很强大，比较适合写tutorial , blog 等等。
 
-#### 开启jupyter notebook
+
+### 开启jupyter notebook
 
     jupyter notebook
 
-#### save the code with %%file
+### save the code with %%file
 
     %%file test.py # 下一行的代码就会overwriting 到test.py(if exists)
     %%file -a test.py # means append, 会附加到已存在的 test.py上。
 
-#### Accessing Documentation with ?
+### Accessing Documentation with ?
 
     len?
     L = [1,2,3]
     L.insert?
 
-#### Accessing Source Code with ??
+### Accessing Source Code with ??
 
     len??
 
 但是python 里面C写的源码是看不到的，而python 写的动辄上千行，所以这个功能不是很常用。
 
-#### Exploring Modules with Tab-Completion
+### Exploring Modules with Tab-Completion
 
     L.<TAB>
     L.co<TAB>
@@ -45,34 +46,36 @@ tag: [python, 笔记]
 
 这个功能我觉得还是很好用的。
    
-#### wildcard matching
+### wildcard matching
 
-    str.####find####?
+    str.*find*?
 
-#### Miscellaneous Shortcuts
+### Miscellaneous Shortcuts
 
-1. ctrl-l  clear terminal screen
-2. ctrl-c interrupt python command
-3. ctrl-d exit ipython session
+    ctrl-l  clear terminal screen
+    ctrl-c interrupt python command
+    ctrl-d exit ipython session
 
-#### Pasting Code Blocks: %paste and %cpaste
+### Pasting Code Blocks: %paste and %cpaste
 
 使用时先复制好代码，带>>> 也没关系， 然后第一行为%paste，Enter 后就自动粘帖好代码了。
 %cpaste 支持多次复制，适合长的代码。
 
-#### Running External Code: %run
+### Running External Code: %run
 
     python test.py # 在ipython 中会报错
     %run test.py  # 正确执行
 
 这一功能也是很有帮助的。
 
-#### Timing Code Execution: %timeit
+### Timing Code Execution: %timeit
+
 %timeit 可以给出单行代码的运行时间，%%timeit 支持多行代码
 
     %timeit L = [n ######## 2 for n in range(1000)]
 
-#### Help on Magic Functions: ?, %magic, and %lsmagic
+### Help on Magic Functions: ?, %magic, and %lsmagic
+
 在ipython 中，带有%的是一些magic function,对于这些函数的帮助文档，可以使用？查看：
 
     %timeit?
@@ -81,22 +84,22 @@ tag: [python, 笔记]
 
 % magic 的用法是ipython的一大特色，很有创意的想法。大大扩展了它的灵活性。
 
-#### Suppressing Output
+### Suppressing Output
 
     sum([1,2]); # 加上分号，不会显示结果
 
-#### Profiling Full Scripts: %prun
+### Profiling Full Scripts: %prun
 
     %prun sum_of_lists(1000000) # 整个函数的性能分析
 
-#### Line-By-Line Profiling with %lprun
+### Line-By-Line Profiling with %lprun
     
     # 逐行的性能分析
     $ pip install line_profiler
     %load_ext line_profiler
     %lprun -f sum_of_lists sum_of_lists(5000)
 
-#### Profiling Memory Use: %memit and %mprun
+### Profiling Memory Use: %memit and %mprun
     
     # 代码内存分析
     $ pip install memory_profiler
