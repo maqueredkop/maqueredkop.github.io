@@ -58,7 +58,7 @@ tag: [python, 笔记]
 
 ### Pasting Code Blocks: %paste and %cpaste
 
-使用时先复制好代码，带>>> 也没关系， 然后第一行为%paste，Enter 后就自动粘帖好代码了。
+使用时先复制好代码，带 >>> 也没关系， 然后第一行为%paste，Enter 后就自动粘帖好代码了。
 %cpaste 支持多次复制，适合长的代码。
 
 ### Running External Code: %run
