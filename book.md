@@ -4,6 +4,25 @@ title: 书单
 permalink: /book/
 ---
 
+#### 2018
+
+慈悲  路内
+
+少年维特之烦恼  歌德  侯浚吉
+
+爸爸爸  韩少功
+
+妻妾成群  苏童  **推荐**
+
+许三观卖血记  余华  **推荐**
+
+时代的稻草人  许知远  **推荐**
+
+DNA:生命的秘密  James Watson  陈雅云译  **推荐**
+
+兄弟  余华
+
+牧羊少年奇幻之旅  保罗-柯艾略  丁文林译
 
 #### 2017
 
@@ -82,6 +101,16 @@ Data Analysis for the Life Sciences with R  Rafael A. Irizarry & Michael I. Love
 乌合之众  勒庞  陈剑译
 
 一个村庄里的中国  熊培云  **推荐**
+
+白夜  陀思妥耶夫斯基  荣如德译
+
+百年孤独  马尔克斯  范晔译  **推荐**
+
+一地鸡毛  刘震云  **推荐**
+
+我的刘跃进  刘震云
+
+Mastering Python Regular Expressions  Felix Lopez
 
 #### 2016
 
