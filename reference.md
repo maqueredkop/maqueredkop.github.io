@@ -40,6 +40,14 @@ permalink: /reference/
 
 [Diving into Genetics and Genomics](http://crazyhottommy.blogspot.be/)
 
+[生信杂谈](https://www.jianshu.com/users/e0610017c276)
+
+[解螺旋的矿工](http://www.huangshujia.me/)
+
+[安静-不安静的博客](https://anjingwd.github.io/)
+
+[生信笔记](http://www.bioinfo-scrounger.com/)
+
 ###statistics, R
 
 [statistics](https://simplystatistics.org/)
@@ -62,6 +70,4 @@ permalink: /reference/
 
 [阮一峰博客](http://www.ruanyifeng.com/blog/)
 
-[stormzhang](http://stormzhang.com/posts/)
 
-[王垠 blog](http://www.yinwang.org/)
